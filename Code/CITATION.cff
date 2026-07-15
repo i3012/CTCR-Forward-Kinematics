@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Machine Learning Framework for Forward Kinematics Prediction of Concentric Tube Continuum Robots"
+message: "If you use this repository, please cite it as follows."
+type: software
+
+authors:
+  - family-names: "Bouchakour"
+    given-names: "Imene"
+
+repository-code: "https://github.com/<username>/<repository>"
+
+license: MIT
+
+keywords:
+  - machine learning
+  - robotics
+  - continuum robotics
+  - CTCR
+  - forward kinematics
+  - ensemble learning
+  - regression
